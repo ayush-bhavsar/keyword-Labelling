@@ -35,10 +35,10 @@ env/
 # *.csv
 
 # Invoice Images (sensitive data)
-# invoices/
-# *.jpg
-# *.png
-# *.pdf
+invoices/
+*.jpg
+*.png
+*.pdf
 
 # IDE
 .vscode/
