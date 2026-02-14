@@ -30,15 +30,15 @@ env/
 .venv
 
 # Results and Output
-results/
-*.json
-*.csv
+# results/
+# *.json
+# *.csv
 
 # Invoice Images (sensitive data)
-invoices/
-*.jpg
-*.png
-*.pdf
+# invoices/
+# *.jpg
+# *.png
+# *.pdf
 
 # IDE
 .vscode/
