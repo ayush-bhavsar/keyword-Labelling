@@ -1,0 +1,58 @@
+[
+    {
+        "serial_number": 27,
+        "filename": "batch1-0397.jpg",
+        "current_category": "Uncategorized",
+        "reason": "Item is listed as Uncategorized but contains books.",
+        "suggested_category": "Books & Media",
+        "description_snippet": "seller: cook and sons 71766 dustin port lake janetfort, pa 32173 items no. description 1. a history "
+    },
+    {
+        "serial_number": 36,
+        "filename": "batch1-0406.jpg",
+        "current_category": "Uncategorized",
+        "reason": "Item is listed as Uncategorized but contains a couch.",
+        "suggested_category": "Home Furnishings",
+        "description_snippet": "seller: jones llc 83363 hopkins light apt. 606 alejandroshire, nm 15108 items no. description qty il"
+    },
+    {
+        "serial_number": 69,
+        "filename": "batch1-0439.jpg",
+        "current_category": "Transportation, Technology, Footwear & Athletic Wear",
+        "reason": "Category incorrectly includes 'Transportation' and 'Technology'. Items are purely footwear.",
+        "suggested_category": "Footwear & Athletic Wear",
+        "description_snippet": "seller: hall llc 27618 johnson shores suite 030 richport, ar 85238 items no. description 1. saucony "
+    },
+    {
+        "serial_number": 86,
+        "filename": "batch1-0456.jpg",
+        "current_category": "Office Supplies",
+        "reason": "Item is a Computer/Tech item (Intel Compute Stick) but is listed as Office Supplies.",
+        "suggested_category": "Technology",
+        "description_snippet": "seller: martinez plc 47289 ashley oval apt. 958 south seth, hi 76059 items no. description qty ils i"
+    },
+    {
+        "serial_number": 102,
+        "filename": "batch1-0472.jpg",
+        "current_category": "Office Supplies, Technology, Books & Media",
+        "reason": "Category incorrectly includes 'Office Supplies' and 'Technology'. Items are purely books.",
+        "suggested_category": "Books & Media",
+        "description_snippet": "seller: client: carter, molina and garcia jones llc 6710 sean ports 0875 charles village suite 140 l"
+    },
+    {
+        "serial_number": 103,
+        "filename": "batch1-0473.jpg",
+        "current_category": "Uncategorized",
+        "reason": "Item is listed as Uncategorized but contains a book ('The Italians').",
+        "suggested_category": "Books & Media",
+        "description_snippet": "seller: rose, smith and moreno 4507 james mill suite 588 new alyssa, ne 08835 items no. description "
+    },
+    {
+        "serial_number": 121,
+        "filename": "batch1-0491.jpg",
+        "current_category": "Footwear & Athletic Wear",
+        "reason": "Listed as Footwear but contains Clothing and Toys.",
+        "suggested_category": "Clothing & Apparel, Toys & Games",
+        "description_snippet": "seller: client: graham, briggs and anderson moore group 2056 martin extensions 89000 christopher bro"
+    }
+]
